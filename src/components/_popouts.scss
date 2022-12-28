@@ -463,13 +463,3 @@ div[class*="layerContainer-"] {
     }
   }
 }
-
-div[class*="layerContainer-"] {
-  div[class*="guildPopout-"][role="dialog"] {
-    background-color: $base;
-
-    div[class*="guildName-"] {
-      color: $text;
-    }
-  }
-}
